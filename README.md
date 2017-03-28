@@ -3,7 +3,6 @@ A command line tool to fit iPhone screenshots into the mockup automatically
 
 #### Usage
 
-In your terminal, type
 `ScreenshotConverter <input-file-path> [<output-file-path>]`
 
 -----------------
